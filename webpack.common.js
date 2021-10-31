@@ -33,7 +33,7 @@ module.exports = {
            patterns: [
                {
                    from: 'src/ico',
-                   to: 'dist/ico'
+                   to: 'ico'
                }
            ]
         })
