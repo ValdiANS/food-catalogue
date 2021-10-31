@@ -5,7 +5,7 @@ In this project, I use **Webpack** as the module bundler and **Bootstrap** for t
 For the data of the food, I use public API from https://www.themealdb.com/api.php.
 
 ## How to Use
-TO use this project, you can download or clone this repository and then run `npm install`.
+To use this project, you can download or clone this repository and then run `npm install`.
 
 ## How to Run
 - `npm run start-dev` -> running the project in development mode.
